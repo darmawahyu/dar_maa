@@ -1,0 +1,183 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: url(bck.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: middle;
+  font-family: Times New Roman;
+  height: 420px;
+  
+}
+.box{
+  background: rgba(0,0,0,0.5);
+margin: 50px auto;
+  color: white;
+  height: 470px;
+  width: 520px;
+  text-align: center;
+  
+}
+.box >img{
+  padding-top: 20px;
+  width: 190px;
+  height: 190px;
+  border-radius: 50%;
+}
+.image a img{
+  width: 35px;
+  padding: 10px;
+}
+.box h4{
+  text-decoration: underline;
+}
+.box p{
+padding: 20px;
+}
+.box.p{
+  background: rgba(0,0,0,0.5);
+ margin: 50px auto;
+  color: white;
+  height: 200px;
+  width: 0px;
+  text-align: center;
+  
+}
+.about{
+  background: rgba(0,0,0,0.5);
+margin: 50px auto;
+  color: white;
+  height: 300px;
+  width: 520px;
+  text-align: center;
+  
+}
+.about h4{
+  text-decoration: underline;
+}
+.about p{
+  padding: 20px;
+  
+}
+.contact{
+background: rgba(0,0,0,0.5);
+margin: 50px auto;
+  color: white;
+  height: 300px;
+  width: 520px;
+  text-align: center;
+}
+.contact h4{
+  text-decoration: underline;
+}
+.contact a img{
+  width: 35px;
+  margin: 10px;
+  padding: 10px;
+}
+.contact h5{
+  text-decoration: underline;
+}
+.foot p{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+body{
+  background: white;
+  padding: 0px;
+  margin: 0px;
+  
+}
+  .biodata{
+    width: 100%;
+    height: 420px;
+    background: black;
+    text-align: center;
+    font-family: Times New Roman;
+    color: white;
+  }
+  .biodata img{
+    width: 350px;
+    height: 280px;
+    padding: 10px;
+  }
+  .biodata h6{
+    text-align: left;
+    padding: 10px;
+  }
+  .biodata p{
+    text-align: left;
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+  .data h5{
+    padding: 15px;
+    
+  }
+  .logo a img{
+    width: 24px;
+    float: right;
+    padding: 5px;
+    margin: 10px;
+  }
+  .data p{
+    font-size: 15px;
+  }
+  .hobi h5{
+    padding:15px;
+  }
+  .hobi p{
+    font-size: 15px;
+    margin: 15px;
+    padding:0px;
+  }
+  .footer{
+    width: 100%;
+    height: 100px;
+    background: rgba(0,0,0,0.5);
+   margin: 50px auto;
+  }
+  
+.nav{
+  margin: auto;
+  text-align: center;
+  font-family: 'Open Sans'sans serif;
+  width: 100%;
+  font-size: 20px;
+  position: relative;
+  top: 0;
+  z-index: 1px;
+
+}
+.nav ul{
+  margin: 0 5px;
+  background: #BDBDBD;
+  list-style: none;
+  position: relative;
+  display: inline-table;
+  width: 100%;
+  padding: 0px 10px 0px 10px;
+  
+  
+}
+.nav ul li{
+  float: right;
+  padding-right:  20px;
+}
+.nav ul li a{
+color: black;
+font-weight: bold;
+text-align: center;
+padding: 0px 5px;
+text-decoration: none;
+}
+.nav ul li:hover{
+  background:#364f6b;
+}
+.nav ul li a:hover{
+  color: black;
+  text-decoration: underline;
+}
